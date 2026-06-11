@@ -16,10 +16,13 @@ utilities. Ornate, hand-made, friendly, a little absurd. Here's how to evoke it.
 - **Exuberant catalog copy** under each item ("Behold! UTILITY CITY — 21 programs!").
 - **Cream/parchment background, single spot color** (deep red or blue) for accents.
 
-## Generating clip art (you already have the tools)
+## Generating clip art
 
-Use the **drawthings** skill (local) or **replicate** / **pollinations** for one-offs.
-Prompt skeleton that lands the look:
+If you want to generate the engravings, look for a skill (or tool) that calls an
+image-generation service — something local like **Draw Things**, or a hosted one like
+**Replicate**, **Pollinations**, **fal**, **Stability**, etc. Use whichever is already
+installed; this skill doesn't ship one. No image tool around? Hand the prompt below to
+the user to run wherever they like. Prompt skeleton that lands the look:
 
 > "Victorian engraving, 19th-century woodcut illustration, vintage patent-medicine
 > advertisement style, a [SUBJECT] in a top hat, fine cross-hatching, black ink line
@@ -64,9 +67,8 @@ Banner / splash header for a CLI start screen:
 ## Where this belongs (and where it doesn't)
 
 - **Good fits:** READMEs, landing pages, splash screens, an `about`/`--version` easter
-  egg, release-note headers, a printable tip card, a retro-themed site section. Ties
-  naturally to Eric's **OWNER/OPERATORS** and **Rack & Pinecone** retro/print aesthetic
-  and Hugo sites.
+  egg, release-note headers, a printable tip card, a retro-themed site section — anywhere
+  a project already leans retro/print and wants the engraving energy.
 - **Hold back on:** dense reference tables, API docs, anything where ornament fights
   scannability. Beagle Bros put the cartoons in the _margins_ — the technical content
   stayed clean. Keep the engravings out of the load-bearing data.

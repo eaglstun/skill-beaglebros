@@ -1,6 +1,7 @@
 ---
 name: beaglebros
 description: Bring the Beagle Bros sensibility — the wisecracking, generous, demystify-the-machine spirit of the 1980s Apple II software house — into whatever Eric is making. Use when writing READMEs, docs, release notes, CLI/UI copy, error messages, splash screens, or naming things and you want that irreverent-but-warm Beagle Bros voice; when designing a retro/Victorian-woodcut aesthetic or a "Peeks & Pokes"-style tip card; or as a design gut-check ("would Beagle Bros ship this?"). Load the one reference file that matches the task.
+version: 1.0.0
 ---
 
 # Beagle Bros Skill

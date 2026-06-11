@@ -1,5 +1,7 @@
 # beaglebros
 
+<img src="assets/spot-computer-engr2.png" align="right" width="150" alt="A small 1980s home computer engraved like a Victorian encyclopedia plate">
+
 A small skill that tries to carry forward a sensibility I fell in love with before I
 understood a single thing about computers.
 
@@ -41,5 +43,7 @@ thing should _feel_.
 It is not nostalgia for its own sake. It's a promise to build the way I was first welcomed
 in.
 
-☞ If you grew up the same way, you already know exactly what I mean. If you didn't — come
+<img src="assets/spot-hand-b.png" align="left" width="120" alt="An engraved Victorian hand pointing">
+
+If you grew up the same way, you already know exactly what I mean. If you didn't — come
 on in. That was always the whole point.
